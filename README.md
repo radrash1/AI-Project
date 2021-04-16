@@ -1,5 +1,5 @@
 
-# Python Project on Traffic Signs Recognition with 95% Accuracy
+# Traffic Signs Recognition with 95% Accuracy
 
 ## A. PROJECT SUMMARY
 
@@ -7,7 +7,7 @@
 
 
 **Project developer:** 
-- [Radwan Mohammed Rashed Mahdi]
+- Radwan Mohammed Rashed Mahdi
 
 
 - [ ] **Objectives:**
