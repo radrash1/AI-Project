@@ -59,7 +59,7 @@ I will upload it to here. Just this is an example how to do documentation on git
 
 
 
-## E   TRAINING THE TRAFFIC SIGN DETECTION
+## E.   TRAINING THE TRAFFIC SIGN DETECTION
 
 I am ngoing to train my traffic sign detection using using model.fit(). 
 I tried with batch size 32 and 64. my model performed better with 64 batch size. And after 15 epochs the accuracy was stable.
