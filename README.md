@@ -11,9 +11,9 @@
 
 
 - [ ] **Objectives:**
-- [To recognise the traffic sign.]
-- [To explain the action of a particular traffic sign.]
-- [To achieving accuracy in this technology for self-driving cars.]
+- To recognise the traffic sign.
+- To explain the action of a particular traffic sign.
+- To achieving accuracy in this technology for self-driving cars.
 
 
 ##  B. ABSTRACT 
@@ -29,12 +29,12 @@ In this Python project example, we will build a deep neural network model that c
 With this model, we are able to read and understand traffic signs which are a very important task for all autonomous vehicles.
 
 ![Coding](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/12/graphical-user-interface-project-in-python.png)
-Figure 1 shows the AI output of detecting what is the traffic sign and its meaning.
+Figure 1 shows the AI output of recognizing what is the traffic sign and its meaning.
 
 
 ## C.  DATASET
 
-For this project, we are using the public dataset of traffic sign.
+For this project, I am using the public dataset of traffic sign.
 The dataset contains more than 500 images of different traffic signs. It is further classified into 40 different classes. 
 The dataset is quite varying, some of the classes have many images while some classes have few images. The size of the dataset is around 100 MB.
 The dataset has a train folder which contains images inside each class and a test folder which we will use for testing our model.
@@ -62,7 +62,7 @@ From there, open up a terminal, and execute the following command:
 
 ![Figure 4](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/12/accuracy-loss-python-machine-learning-project.png)
 
-Figure 4: Figure 10: TRAFFIC SIGN detector training accuracy and loss graph.
+Figure 4: Figure 10: TRAFFIC SIGN recognizer training accuracy and loss graph.
 
 As you can see, the project is obtaining ~99% accuracy on my test set.
 
@@ -77,7 +77,7 @@ and also visualized how our accuracy and loss changes with time, which is pretty
 
 [![Figure5](https://img.youtube.com/vi/U-SBY9eJ-xc/0.jpg)](https://www.youtube.com/watch?v=U-SBY9eJ-xc)
 
-Figure 5: Mask detector in real-time video streams
+Figure 5: Traffic Sign in real-time video streams
 
 In Figure 5, you can see that my TRAFFIC SIGN DETECTION in real-time (and is correct in its predictions as well).
 
