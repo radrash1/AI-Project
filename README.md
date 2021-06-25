@@ -67,25 +67,6 @@ The following directories are our structure of our project:
 
 - 2 directories, 6 files
 
-The following directory is our structure of our project:
-- $ tree --dirsfirst --filelimit 10
-- .
-- ├── dataset
-- │   ├── with_mask [690 entries]
-- │   └── without_mask [686 entries]
-- ├── examples
-- │   ├── example_01.png
-- │   ├── example_02.png
-- │   └── example_03.png
-- ├── face_detector
-- │   ├── deploy.prototxt
-- │   └── res10_300x300_ssd_iter_140000.caffemodel
-- ├── detect_mask_image.py
-- ├── detect_mask_video.py
-- ├── mask_detector.model
-- ├── plot.png
-- └── train_mask_detector.py
-
 
 
 ## E.   TRAINING THE TRAFFIC SIGN DETECTION
