@@ -53,9 +53,19 @@ and a test folder which we will use for testing our model.
 
 ## D.   PROJECT STRUCTURE
 
-The structure of the project is not fully completed but when we complete it. 
-I will upload it to here. Just this is an example how to do documentation on github.
+The following directories are our structure of our project:
+- $ tree --dirsfirst --filelimit 5
+- .
+- ├── dataset
+- │   ├── song_data.csv [1000001 entries]
+- │   └── triplets_file.csv [1048576 entries]
+- ├── music_recommender
+- │   ├── popularityBased_recommender.py
+- │   ├── contentBased_recommender.py
+- │   └── Main.py
+- └── trainMusicDatasetRecommendation.py
 
+- 2 directories, 15 files
 
 
 
