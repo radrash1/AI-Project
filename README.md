@@ -57,12 +57,12 @@ The following directories are our structure of our project:
 - $ tree --dirsfirst --filelimit 5
 - .
 - ├── dataset
-- │   ├── song_data.csv [1000001 entries]
-- │   └── triplets_file.csv [1048576 entries]
+- │    ├── song_data.csv [1000001 entries]
+- │    └── triplets_file.csv [1048576 entries]
 - ├── music_recommender
-- │   ├── popularityBased_recommender.py
-- │   ├── contentBased_recommender.py
-- │   └── Main.py
+- │    ├── popularityBased_recommender.py
+- │    ├── contentBased_recommender.py
+- │    └── Main.py
 - └── trainMusicDatasetRecommendation.py
 
 - 2 directories, 15 files
