@@ -62,12 +62,26 @@ The following directories are our structure of our project:
 - ├── music_recommender
 - │    ├── popularityBased_recommender.py
 - │    ├── contentBased_recommender.py
+- │    ├── contentBased_recommender.py
 - │    └── Main.py
 - └── trainMusicDatasetRecommendation.py
 
 - 2 directories, 6 files
 
-
+- ├── dataset
+- │   ├── song_data.csv [1000001 entries]
+- │   └── triplets_file.csv [1048576 entries]
+- │ 
+- ├── images
+- │   ├── histModel1.jpg    └── tableModel1.jpg
+- │   ├── histModel2.jpg
+- │   └── tableModel1.jpg
+- │   └── tableModel2.jpg
+- ├
+- ├── music_recommender
+- │   ├── PopularityBased_recommender.py
+- │   ├── ContentBased_recommender.py
+- │   └── Music_Recommendation.py
 
 ## E.   TRAINING THE TRAFFIC SIGN DETECTION
 
